@@ -79,3 +79,9 @@ The output JSON structure will look like this:
     "patient_weight": "70 kg"
 }
 ```
+
+## Examples:
+
+![assets](assets/pres1.png)
+![assets](assets/ans1.png)
+The above pictures shows the input prescription uploaded in the Streamlit interface along with the extracted information.
