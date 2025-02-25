@@ -7,7 +7,7 @@ This project automates the extraction of structured prescription details from ha
 ![prescription](assets/pres1.png)
 ![text](assets/ans1.png)
 
-The above pictures shows the input prescription uploaded in the Streamlit interface along with the extracted information.
+The above pictures show the input prescription uploaded in the Streamlit interface along with the extracted information.
 
 [Watch Demo](assets/ex1.mp4)
 
