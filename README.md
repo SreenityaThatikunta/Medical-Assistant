@@ -84,4 +84,5 @@ The output JSON structure will look like this:
 
 ![assets](assets/pres1.png)
 ![assets](assets/ans1.png)
+
 The above pictures shows the input prescription uploaded in the Streamlit interface along with the extracted information.
