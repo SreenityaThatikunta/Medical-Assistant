@@ -2,6 +2,14 @@
 
 This project automates the extraction of structured prescription details from handwritten and printed medical prescriptions. It leverages Google Gemini AI to analyze prescription images and extract essential details, presenting them in a structured JSON format.
 
+## Example:
+
+![prescription](assets/pres1.png)
+![text](assets/ans1.png)
+
+The above pictures shows the input prescription uploaded in the Streamlit interface along with the extracted information.
+
+[Watch Demo](assets/ex1.mp4)
 
 ## Requirements
 
@@ -79,12 +87,3 @@ The output JSON structure will look like this:
     "patient_weight": "70 kg"
 }
 ```
-
-## Examples:
-
-![prescription](assets/pres1.png)
-![text](assets/ans1.png)
-
-The above pictures shows the input prescription uploaded in the Streamlit interface along with the extracted information.
-
-[Watch Demo](assets/ex1.mp4)
