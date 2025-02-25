@@ -82,7 +82,9 @@ The output JSON structure will look like this:
 
 ## Examples:
 
-![assets](assets/pres1.png)
-![assets](assets/ans1.png)
+![prescription](assets/pres1.png)
+![text](assets/ans1.png)
 
 The above pictures shows the input prescription uploaded in the Streamlit interface along with the extracted information.
+
+[Watch Demo](assets/ex1.mp4)
